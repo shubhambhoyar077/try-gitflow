@@ -1,1 +1,1 @@
-Content from auto 
+Content from auto git
